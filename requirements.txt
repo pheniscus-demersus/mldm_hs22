@@ -3,3 +3,4 @@ numpy==1.23.3
 pandas==1.5.0
 scikit-learn==1.1.2
 notebook==6.4.12
+jupyter==1.0.0
